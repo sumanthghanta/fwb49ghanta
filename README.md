@@ -2,4 +2,4 @@
 
 Positivity always wins.
 
-[Hosted at](https://dashboard.heroku.com/apps/fwb49ghanta)
+[Hosted at](https://fwb49ghanta.herokuapp.com/)
